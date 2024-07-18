@@ -9,7 +9,7 @@ Um desafio de projeto proposto no bootcamp Desenvolvimento Java com IA na [Digit
 
 ## 📌 Objetivo
 
-Modelar e diagramar a representação UML do componente iPhone, abrangendo suas funcionalidades como Reprodutor Musical, Aparelho Telefônico e Navegador na Internet e implementar as classes e interfaces no formato de arquivos .java.
+Modelar e diagramar a representação UML do componente iPhone, abrangendo suas funcionalidades como Reprodutor Musical, Aparelho Telefônico e Navegador na Internet e implementar as classes e interfaces no formato de arquivos .java
 
 ## 💻 Linguagem de Programação
 
@@ -22,6 +22,5 @@ Modelar e diagramar a representação UML do componente iPhone, abrangendo suas 
 
 ## 📞 Entre em contato
 
-Qualquer dúvida entre em comigo por meio do email abaixo
+Qualquer dúvida mande um Issue
 
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:hv.costalm22@gmail.com)
